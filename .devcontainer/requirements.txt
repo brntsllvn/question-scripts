@@ -1,0 +1,9 @@
+pandas~=1.5.2
+numpy~=1.23.0
+matplotlib~=3.4.3
+aiohttp
+beautifulsoup4
+python-dotenv
+autopep8
+pytest
+pylama
